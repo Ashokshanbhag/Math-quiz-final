@@ -97,5 +97,7 @@ function check(){
         document.getElementById("player_answer").innerHTML = "Answer-" + player1_name;
 
     }
+    
+    document.getElementById("output").innerHTML = "";
 
 }
